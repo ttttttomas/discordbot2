@@ -100,4 +100,4 @@ function formatTime(seconds) {
     return `${seconds}s | ${minutes}m | ${hours}h | ${days}d`;
 }
 
-client.login(process.env.DISCORD_TOKEN);
+client.login("MTM0MzMxODE4OTQzNzg3ODM2Mg.GzRfEx.l3VD81BmDcU4P_iqHbuS81e6KLPUGwtmRwGq2s");
